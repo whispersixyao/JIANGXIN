@@ -1,4 +1,10 @@
-# CAV2020-1sthomework
-第一次作业：
-1. 注册成功github用户，加入智能网联2020team；
-2. 完成ubutu/ros系统安装，详细安装步骤及结果以readme形式，创建个人fork上传github，readme文件中写好个人名称和学号:
+#下载虚拟机virtualbox
+下载安装包，官网下载地址:https://www.virtualbox.org/wiki/Downloads;
+确定选择新建虚拟电脑的名称及位置、内存大小、虚拟硬盘、虚拟硬盘大小及位置；
+#安装ubuntu 
+:http://mirrors.aliyun.com/ubuntu-releases/20.04/；
+配置虚拟主机，关联 Ubuntu 镜像文件；
+ubuntu 操作系统；
+#安装ROS 
+配置ubuntu的软件和更新；设置安装源；设置key；安装；配置环境变量
+#测试ROS安装
